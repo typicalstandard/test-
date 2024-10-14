@@ -1,2 +1,7 @@
-print('f')
-s = 25
+def k(x):
+    return x
+
+
+
+def u(x):
+    return x
