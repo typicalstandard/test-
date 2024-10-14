@@ -4,4 +4,4 @@ def k(x):
 
 
 def u(x):
-    return x
+    return x,'f'
